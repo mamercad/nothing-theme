@@ -13,17 +13,45 @@ Sample terminal renders use the palettes documented below (accent `#FF4719`, war
 
 ## Wallpaper Gallery
 
-Solid-color Nothing Theme wallpapers are available in `assets/wallpapers/{dark,light}/`
-at 3840x2160, 2560x1440, and 1920x1080. Small README thumbnails live in
-`assets/gallery/`.
+The Voltron Industrial wallpaper set uses the Nothing Theme palette as a paired
+dark/light system: flat industrial geometry, void-centered negative space, warm
+neutrals, and restrained `#FF4719` accent markers.
 
-| Variant | Dark | Light |
-|---|---|---|
-| Recursive Void | ![Recursive Void dark](assets/gallery/nothing-recursive-void-dark-thumb.png) | ![Recursive Void light](assets/gallery/nothing-recursive-void-light-thumb.png) |
-| Void Stairwell | ![Void Stairwell dark](assets/gallery/nothing-void-stairwell-dark-thumb.png) | ![Void Stairwell light](assets/gallery/nothing-void-stairwell-light-thumb.png) |
-| Event Horizon Grid | ![Event Horizon Grid dark](assets/gallery/nothing-event-horizon-grid-dark-thumb.png) | ![Event Horizon Grid light](assets/gallery/nothing-event-horizon-grid-light-thumb.png) |
-| Industrial Maze | ![Industrial Maze dark](assets/gallery/nothing-industrial-maze-dark-thumb.png) | ![Industrial Maze light](assets/gallery/nothing-industrial-maze-light-thumb.png) |
-| Infinite Well | ![Infinite Well dark](assets/gallery/nothing-infinite-well-dark-thumb.png) | ![Infinite Well light](assets/gallery/nothing-infinite-well-light-thumb.png) |
+Full-size PNG exports live under `wallpapers/voltron-industrial/full/`; README
+thumbnails live under `wallpapers/voltron-industrial/thumbs/`.
+
+<table>
+  <tr>
+    <th>Variant</th>
+    <th>Dark</th>
+    <th>Light</th>
+  </tr>
+  <tr>
+    <td><strong>Aperture</strong></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-01-aperture-dark.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-01-aperture-dark-thumb.jpg" alt="Aperture dark wallpaper" width="240"></a></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-01-aperture-light.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-01-aperture-light-thumb.jpg" alt="Aperture light wallpaper" width="240"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Containment Frame</strong></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-02-containment-dark.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-02-containment-dark-thumb.jpg" alt="Containment Frame dark wallpaper" width="240"></a></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-02-containment-light.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-02-containment-light-thumb.jpg" alt="Containment Frame light wallpaper" width="240"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Gantry</strong></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-03-gantry-dark.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-03-gantry-dark-thumb.jpg" alt="Gantry dark wallpaper" width="240"></a></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-03-gantry-light.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-03-gantry-light-thumb.jpg" alt="Gantry light wallpaper" width="240"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Horizontal Trench</strong></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-04-trench-dark.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-04-trench-dark-thumb.jpg" alt="Horizontal Trench dark wallpaper" width="240"></a></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-04-trench-light.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-04-trench-light-thumb.jpg" alt="Horizontal Trench light wallpaper" width="240"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Diagonal Corridor</strong></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-05-diagonal-dark.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-05-diagonal-dark-thumb.jpg" alt="Diagonal Corridor dark wallpaper" width="240"></a></td>
+    <td><a href="wallpapers/voltron-industrial/full/nothing-voltron-industrial-05-diagonal-light.png"><img src="wallpapers/voltron-industrial/thumbs/nothing-voltron-industrial-05-diagonal-light-thumb.jpg" alt="Diagonal Corridor light wallpaper" width="240"></a></td>
+  </tr>
+</table>
 
 ---
 

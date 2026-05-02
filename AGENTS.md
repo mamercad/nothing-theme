@@ -3,6 +3,14 @@
 Custom terminal/editor colorscheme based on the [Nothing design system](https://github.com/dominikmartn/nothing-design-skill).
 Two variants: `nothing-light` (default) and `nothing-dark`.
 
+## Preview
+
+Sample terminal renders use the palettes documented below (accent `#FF4719`, warm neutrals, syntax roles). Refresh with `python3 scripts/generate-terminal-previews.py` (requires [Pillow](https://pypi.org/project/pillow/) and [JetBrainsMono Nerd Font Mono](https://www.nerdfonts.com/font-downloads)).
+
+| Nothing Dark — The Crucible | Nothing Light — The Steam |
+|:-:|:-:|
+| ![Nothing Dark terminal preview](assets/nothing-dark-preview.png) | ![Nothing Light terminal preview](assets/nothing-light-preview.png) |
+
 ---
 
 ## Design principles
@@ -331,3 +339,9 @@ Install both snippets into `~/.config/delta/themes/`, then include the preferred
 ### lazygit
 
 Install both snippets into `~/.config/lazygit/themes/`. Lazygit does not have a dedicated theme search path, so merge the preferred snippet into `~/.config/lazygit/config.yml` or copy its `gui.theme` block into the active config.
+
+---
+
+## License
+
+This project is released under the [MIT License](LICENSE).

@@ -11,6 +11,20 @@ Sample terminal renders use the palettes documented below (accent `#FF4719`, war
 |:-:|:-:|
 | ![Nothing Dark terminal preview](assets/nothing-dark-preview.png) | ![Nothing Light terminal preview](assets/nothing-light-preview.png) |
 
+## Wallpaper Gallery
+
+Solid-color Nothing Theme wallpapers are available in `assets/wallpapers/{dark,light}/`
+at 3840x2160, 2560x1440, and 1920x1080. Small README thumbnails live in
+`assets/gallery/`.
+
+| Variant | Dark | Light |
+|---|---|---|
+| Recursive Void | ![Recursive Void dark](assets/gallery/nothing-recursive-void-dark-thumb.png) | ![Recursive Void light](assets/gallery/nothing-recursive-void-light-thumb.png) |
+| Void Stairwell | ![Void Stairwell dark](assets/gallery/nothing-void-stairwell-dark-thumb.png) | ![Void Stairwell light](assets/gallery/nothing-void-stairwell-light-thumb.png) |
+| Event Horizon Grid | ![Event Horizon Grid dark](assets/gallery/nothing-event-horizon-grid-dark-thumb.png) | ![Event Horizon Grid light](assets/gallery/nothing-event-horizon-grid-light-thumb.png) |
+| Industrial Maze | ![Industrial Maze dark](assets/gallery/nothing-industrial-maze-dark-thumb.png) | ![Industrial Maze light](assets/gallery/nothing-industrial-maze-light-thumb.png) |
+| Infinite Well | ![Infinite Well dark](assets/gallery/nothing-infinite-well-dark-thumb.png) | ![Infinite Well light](assets/gallery/nothing-infinite-well-light-thumb.png) |
+
 ---
 
 ## Design principles
